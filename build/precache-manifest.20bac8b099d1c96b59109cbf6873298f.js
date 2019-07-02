@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61e39da9ae500bf01c0864a10ca001e4",
+    "revision": "cf71b96a6352700adcce41df48ef327f",
     "url": "/wilberforce/build/index.html"
   },
   {
-    "revision": "7cf3844df362392af3cb",
-    "url": "/wilberforce/build/static/css/main.775fbf17.chunk.css"
+    "revision": "8a1531d66b7b26cce437",
+    "url": "/wilberforce/build/static/css/main.287eecfa.chunk.css"
   },
   {
     "revision": "8c56f6aab75cd10d0465",
     "url": "/wilberforce/build/static/js/2.2f1908a9.chunk.js"
   },
   {
-    "revision": "7cf3844df362392af3cb",
-    "url": "/wilberforce/build/static/js/main.b102198a.chunk.js"
+    "revision": "8a1531d66b7b26cce437",
+    "url": "/wilberforce/build/static/js/main.49ddee3c.chunk.js"
   },
   {
     "revision": "10fac75ea2c9a67aa58e",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c18c582059031688b29878baf848fdc0",
     "url": "/wilberforce/build/static/media/drchi.c18c5820.png"
+  },
+  {
+    "revision": "a9fd4a3f76c69d7691028c8af3bea698",
+    "url": "/wilberforce/build/static/media/email_purple.a9fd4a3f.svg"
+  },
+  {
+    "revision": "c9cde80cb1d6698b5f6e170f1c0f8693",
+    "url": "/wilberforce/build/static/media/facebook_purple.c9cde80c.svg"
   },
   {
     "revision": "17d189b5d3f7d5aae0c2f10d9c3dddb4",

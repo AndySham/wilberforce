@@ -34,4 +34,7 @@ body {
     --image-speaking-events: url("./assets/drchi.png");
     --image-committee: url("./assets/committee.png");
     --image-contact-us: url("./assets/contactus.png");
+
+    --image-email-purple: url("./assets/email_purple.svg");
+    --image-facebook-purple: url("./assets/facebook_purple.svg");
 }

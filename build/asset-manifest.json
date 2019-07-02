@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wilberforce/build/static/css/main.775fbf17.chunk.css",
-    "main.js": "/wilberforce/build/static/js/main.b102198a.chunk.js",
-    "main.js.map": "/wilberforce/build/static/js/main.b102198a.chunk.js.map",
+    "main.css": "/wilberforce/build/static/css/main.287eecfa.chunk.css",
+    "main.js": "/wilberforce/build/static/js/main.49ddee3c.chunk.js",
+    "main.js.map": "/wilberforce/build/static/js/main.49ddee3c.chunk.js.map",
     "runtime~main.js": "/wilberforce/build/static/js/runtime~main.48331e61.js",
     "runtime~main.js.map": "/wilberforce/build/static/js/runtime~main.48331e61.js.map",
     "static/js/2.2f1908a9.chunk.js": "/wilberforce/build/static/js/2.2f1908a9.chunk.js",
     "static/js/2.2f1908a9.chunk.js.map": "/wilberforce/build/static/js/2.2f1908a9.chunk.js.map",
     "index.html": "/wilberforce/build/index.html",
-    "precache-manifest.d57b88319e4afbed059d2f47f72692ca.js": "/wilberforce/build/precache-manifest.d57b88319e4afbed059d2f47f72692ca.js",
+    "precache-manifest.20bac8b099d1c96b59109cbf6873298f.js": "/wilberforce/build/precache-manifest.20bac8b099d1c96b59109cbf6873298f.js",
     "service-worker.js": "/wilberforce/build/service-worker.js",
-    "static/css/main.775fbf17.chunk.css.map": "/wilberforce/build/static/css/main.775fbf17.chunk.css.map",
+    "static/css/main.287eecfa.chunk.css.map": "/wilberforce/build/static/css/main.287eecfa.chunk.css.map",
     "static/media/index.css": "/wilberforce/build/static/media/wilberforce.cec44a74.png"
   }
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wilberforce/build/precache-manifest.d57b88319e4afbed059d2f47f72692ca.js"
+  "/wilberforce/build/precache-manifest.20bac8b099d1c96b59109cbf6873298f.js"
 );
 
 self.addEventListener('message', (event) => {
