@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wilberforce/build/static/css/main.89de9614.chunk.css",
+    "main.css": "/wilberforce/build/static/css/main.0bb6fa34.chunk.css",
     "main.js": "/wilberforce/build/static/js/main.b1ed80ea.chunk.js",
     "main.js.map": "/wilberforce/build/static/js/main.b1ed80ea.chunk.js.map",
     "runtime~main.js": "/wilberforce/build/static/js/runtime~main.48331e61.js",
@@ -8,9 +8,9 @@
     "static/js/2.2f1908a9.chunk.js": "/wilberforce/build/static/js/2.2f1908a9.chunk.js",
     "static/js/2.2f1908a9.chunk.js.map": "/wilberforce/build/static/js/2.2f1908a9.chunk.js.map",
     "index.html": "/wilberforce/build/index.html",
-    "precache-manifest.224bf604b15f673bd19fa3cce0359b6b.js": "/wilberforce/build/precache-manifest.224bf604b15f673bd19fa3cce0359b6b.js",
+    "precache-manifest.8d014f5ddf29c2c43a5808f35097bd26.js": "/wilberforce/build/precache-manifest.8d014f5ddf29c2c43a5808f35097bd26.js",
     "service-worker.js": "/wilberforce/build/service-worker.js",
-    "static/css/main.89de9614.chunk.css.map": "/wilberforce/build/static/css/main.89de9614.chunk.css.map",
+    "static/css/main.0bb6fa34.chunk.css.map": "/wilberforce/build/static/css/main.0bb6fa34.chunk.css.map",
     "static/media/index.css": "/wilberforce/build/static/media/wilberforce.cec44a74.png"
   }
 }

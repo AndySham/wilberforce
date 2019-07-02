@@ -79,6 +79,7 @@ p {
         min-height:30vh;
         background-size: 165%;
         background-position: 50% 30%;
+        background-attachment: scroll;
     }
     p {
         font-size:1em;
