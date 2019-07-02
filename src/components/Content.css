@@ -1,0 +1,38 @@
+.jump-to {
+    height:0;
+    opacity:0;
+    width:100%;
+}
+
+p {
+    margin:0;
+    padding: 20px;
+    font-size:1.7em;
+}
+
+.image-header {
+    width:100%;
+    height:40vh;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    background-color: var(--bg-color-1);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    overflow:hidden;
+    color: var(--text-color-1);
+    display: grid;
+    grid-template-rows: 1fr auto;
+}
+
+.image-header-text {
+    grid-row: 2 / 3;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.scroll-inside {
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+}

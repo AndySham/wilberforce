@@ -1,0 +1,9 @@
+#app {
+    display: grid;
+    grid-template-columns: var(--nav-width) auto;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    color: var(--text-color-3);
+    background-color: var(--bg-color-3);
+}
