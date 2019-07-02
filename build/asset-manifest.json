@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/wilberforce/build/static/css/main.5731525f.chunk.css",
-    "main.js": "/wilberforce/build/static/js/main.41f81c70.chunk.js",
-    "main.js.map": "/wilberforce/build/static/js/main.41f81c70.chunk.js.map",
+    "main.css": "/wilberforce/build/static/css/main.775fbf17.chunk.css",
+    "main.js": "/wilberforce/build/static/js/main.b102198a.chunk.js",
+    "main.js.map": "/wilberforce/build/static/js/main.b102198a.chunk.js.map",
     "runtime~main.js": "/wilberforce/build/static/js/runtime~main.48331e61.js",
     "runtime~main.js.map": "/wilberforce/build/static/js/runtime~main.48331e61.js.map",
-    "static/js/2.95d06522.chunk.js": "/wilberforce/build/static/js/2.95d06522.chunk.js",
-    "static/js/2.95d06522.chunk.js.map": "/wilberforce/build/static/js/2.95d06522.chunk.js.map",
+    "static/js/2.2f1908a9.chunk.js": "/wilberforce/build/static/js/2.2f1908a9.chunk.js",
+    "static/js/2.2f1908a9.chunk.js.map": "/wilberforce/build/static/js/2.2f1908a9.chunk.js.map",
     "index.html": "/wilberforce/build/index.html",
-    "precache-manifest.16b813aea78d9973e3b2db227c1bbda2.js": "/wilberforce/build/precache-manifest.16b813aea78d9973e3b2db227c1bbda2.js",
+    "precache-manifest.d57b88319e4afbed059d2f47f72692ca.js": "/wilberforce/build/precache-manifest.d57b88319e4afbed059d2f47f72692ca.js",
     "service-worker.js": "/wilberforce/build/service-worker.js",
-    "static/css/main.5731525f.chunk.css.map": "/wilberforce/build/static/css/main.5731525f.chunk.css.map"
+    "static/css/main.775fbf17.chunk.css.map": "/wilberforce/build/static/css/main.775fbf17.chunk.css.map",
+    "static/media/index.css": "/wilberforce/build/static/media/wilberforce.cec44a74.png"
   }
 }

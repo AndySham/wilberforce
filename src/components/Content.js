@@ -52,32 +52,32 @@ class Content extends React.Component {
                     <JumpTo id="home"/>
                     <Title text="Welcome to The Wilberforce Club"
                         subtext="The home of open discourse in Oxford."
-                        background="/home.png"
+                        background="var(--image-home)"
                         backgroundColor="var(--bg-color-1)"/>
                     <ShitloadOfText/>
                     <JumpTo id="about_us"/>
                     <Title text="About Us"
-                        background="/radcam.png"
+                        background="var(--image-about-us)"
                         backgroundColor="var(--bg-color-1)"/>
                     <ShitloadOfText/>
                     <JumpTo id="gin_and_liberty"/>
                     <Title text="Gin & Liberty"
-                        background="/g&l.png"
+                        background="var(--image-gin-and-liberty)"
                         backgroundColor="var(--bg-color-1)"/>
                     <ShitloadOfText/>
                     <JumpTo id="speaking_events"/>
                     <Title text="Speaking Events"
-                        background="/drchi.png"
+                        background="var(--image-speaking-events)"
                         backgroundColor="var(--bg-color-1)"/>
                     <ShitloadOfText/>
                     <JumpTo id="the_committee"/>
                     <Title text="The Committee"
-                        background="/committee.png"
+                        background="var(--image-committee)"
                         backgroundColor="var(--bg-color-1)"/>
                     <ShitloadOfText/>
                     <JumpTo id="contact_us"/>
                     <Title text="Contact Us"
-                        background="/contactus.png"
+                        background="var(--image-contact-us)"
                         backgroundColor="var(--bg-color-1)"/>
                     <ShitloadOfText/>
                 </div>

@@ -3,7 +3,7 @@ import React from 'react'
 function Title(props) {
 
     return (
-        <div className="image-header" style={{backgroundImage: `url(${props.background})`}}>
+        <div className="image-header" style={{backgroundImage: `${props.background}`}}>
             <div/>
             <div className="image-header-text">
                 <span style={{fontSize: "2em"}}>{props.text}</span><br/>
