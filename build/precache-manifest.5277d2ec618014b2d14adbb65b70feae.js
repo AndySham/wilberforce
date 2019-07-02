@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbe52d117530d97044790d72a712b607",
+    "revision": "845adacdbe1931295e004896494b365e",
     "url": "/wilberforce/build/index.html"
   },
   {
-    "revision": "242d0dac3e98cff337f8",
-    "url": "/wilberforce/build/static/css/main.0bb6fa34.chunk.css"
+    "revision": "a6191311772ad3920068",
+    "url": "/wilberforce/build/static/css/main.384a2100.chunk.css"
   },
   {
     "revision": "8c56f6aab75cd10d0465",
     "url": "/wilberforce/build/static/js/2.2f1908a9.chunk.js"
   },
   {
-    "revision": "242d0dac3e98cff337f8",
+    "revision": "a6191311772ad3920068",
     "url": "/wilberforce/build/static/js/main.b1ed80ea.chunk.js"
   },
   {
