@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wilberforce/static/css/main.5731525f.chunk.css",
+    "main.js": "/wilberforce/static/js/main.41f81c70.chunk.js",
+    "main.js.map": "/wilberforce/static/js/main.41f81c70.chunk.js.map",
+    "runtime~main.js": "/wilberforce/static/js/runtime~main.98691c39.js",
+    "runtime~main.js.map": "/wilberforce/static/js/runtime~main.98691c39.js.map",
+    "static/js/2.95d06522.chunk.js": "/wilberforce/static/js/2.95d06522.chunk.js",
+    "static/js/2.95d06522.chunk.js.map": "/wilberforce/static/js/2.95d06522.chunk.js.map",
+    "index.html": "/wilberforce/index.html",
+    "precache-manifest.51164cde20f0007448dba7f0a8fc69b3.js": "/wilberforce/precache-manifest.51164cde20f0007448dba7f0a8fc69b3.js",
+    "service-worker.js": "/wilberforce/service-worker.js",
+    "static/css/main.5731525f.chunk.css.map": "/wilberforce/static/css/main.5731525f.chunk.css.map"
+  }
+}
