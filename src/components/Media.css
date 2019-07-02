@@ -3,6 +3,7 @@
     bottom:0;
     right:40px;
     padding: 0 10px;
+    display: none;
 }
 
 .media-button {

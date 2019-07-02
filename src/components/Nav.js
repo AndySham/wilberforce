@@ -3,7 +3,8 @@ import NavItem from './NavItem'
 import WilberforceLogo from '../assets/wilberforce.png'
 import './Nav.css'
 
-function nav() {
+/** The sidebar */
+function Nav() {
     return (
         <div id="nav">
             <div id="nav-title">
@@ -28,4 +29,4 @@ function nav() {
     )
 }
 
-export default nav
+export default Nav

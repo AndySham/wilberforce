@@ -24,8 +24,15 @@ body {
     --bg-color-2: #593c61;
     --bg-color-3: #f1e8f3;
     --text-color-1: white;
-    --text-color-2: white;
+    --text-color-2: #816886;
     --text-color-3: #2c0036;
+
+    --colour-1: #2c0036;
+    --colour-2: #593c61;
+    --colour-3: #816886;
+    --colour-4: #c3acc9;
+    --colour-5: #f1e8f3;
+    --colour-6: white;
 
     --image-wilberforce: url("./assets/wilberforce.png");
     --image-home: url("./assets/home.png");

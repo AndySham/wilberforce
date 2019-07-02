@@ -7,3 +7,11 @@
     color: var(--text-color-3);
     background-color: var(--bg-color-3);
 }
+
+
+@media (max-device-width: 700px) {
+    /** Remove sidebar with small screen width */
+    #app {
+        grid-template-columns: 0 auto;
+    }
+}

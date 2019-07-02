@@ -37,6 +37,21 @@ function ShitloadOfText() {
     )
 }
 
+/** 'Contact us' section, requires slightly different formatting */
+class Footer extends React.Component {
+
+    render() {
+        return (
+            <div id="content-footer">
+                Email us at <a href="mailto:wilberforceclub@gmail.com">wilberforceclub@gmail.com</a>,<br/>
+                or find us on <a href="https://www.facebook.com/TheWilberforceClub/">Facebook</a>!
+            </div>
+        )
+    }
+
+}
+
+/** Main body of page, i.e. everything except the sidebar */
 class Content extends React.Component {
 
     registerJump(name, elem) {
@@ -49,6 +64,7 @@ class Content extends React.Component {
         return (
             <div class="scroll-inside">
                 <div>
+                    <div id="content-wilberforce"/>
                     <JumpTo id="home"/>
                     <Title text="Welcome to The Wilberforce Club"
                         subtext="The home of open discourse in Oxford."
@@ -79,7 +95,7 @@ class Content extends React.Component {
                     <Title text="Contact Us"
                         background="var(--image-contact-us)"
                         backgroundColor="var(--bg-color-1)"/>
-                    <ShitloadOfText/>
+                    <Footer/>
                 </div>
             </div>
         )

@@ -7,12 +7,13 @@
 p {
     margin:0;
     padding: 20px;
-    font-size:1.7em;
+    font-size:1.5em;
+    font-family: 'Merriweather';
 }
 
 .image-header {
     width:100%;
-    height:40vh;
+    min-height:40vh;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr;
     background-color: var(--bg-color-1);
@@ -35,4 +36,60 @@ p {
     width: 100%;
     height: 100%;
     overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#content-footer {
+    background-color: var(--colour-1);
+    color: var(--colour-3);
+    width: 100%;
+    min-height: 150px;
+    height: 60vh;
+    padding: 80px;
+    font-size:2em;
+    font-family: 'Merriweather';
+}
+
+#content-footer a {
+    text-decoration: none;
+    color: var(--colour-6);
+    transition: color 0.1s;
+}
+
+#content-footer a:hover {
+    color: var(--colour-4);
+}
+
+#content-wilberforce {
+    background-image: var(--image-wilberforce);
+    height: 0vh;
+    width: 100%;
+    background-color: var(--colour-1);
+    background-size: 80vw;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media (max-device-width: 700px) {
+    /** Have everything be of reasonable size on mobile */
+    .image-header-text  {
+        font-size: 17px;
+    }
+    .image-header {
+        min-height:30vh;
+        background-size: 165%;
+        background-position: 50% 30%;
+    }
+    p {
+        font-size:1em;
+    }
+    #content-footer {
+        padding: 20px;
+        font-size:1em;
+        height: 15vh;
+    }
+
+    #content-wilberforce {
+        height: 100vw;
+    }
 }
